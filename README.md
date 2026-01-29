@@ -36,7 +36,7 @@ pip install -r requirements.txt
 Ensure the trained model best_vgsales_model.joblib is in the root folder.
 
 🚀 Run the App
-streamlit run app.py
+streamlit run game.py
 
 
 Open the browser link provided by Streamlit to access the app.
