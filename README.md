@@ -28,26 +28,6 @@ Instant genre prediction with highlighted results.
 
 Easy-to-use for game analytics and ML enthusiasts.
 
-🖥️ Demo
-<p align="center"> <img src="demo_screenshot.png" alt="App Screenshot" width="600"> </p>
-🛠️ Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/video-game-genre-predictor.git
-cd video-game-genre-predictor
-
-
-(Optional) Create a virtual environment:
-
-python -m venv venv
-# Activate the environment:
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
-
-
 Install dependencies:
 
 pip install -r requirements.txt
